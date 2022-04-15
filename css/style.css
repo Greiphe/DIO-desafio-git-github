@@ -1,0 +1,82 @@
+body{
+	background: #E5E5E5;
+	position: center;
+	text-align: center;
+	margin: auto;
+	font-size: 20px;
+	
+}
+
+
+
+.title, .post1, .post2, .footer{
+	color: white;
+	border: 2px solid black;
+	border-radius: 50px; 
+	background: #35122E;
+	margin: 30px;
+}
+
+.full, .desenvolvimento, .git, .scrum, .html, .pensamento, .logica{
+	color: white;
+	border: 2px solid black;
+	border-radius: 50px; 
+	background: #35122E;
+	margin: 30px;
+}
+
+img{
+	border: 2px solid black;
+	border-radius: 50px;
+}
+
+.nav{
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 30px 30px; 
+  padding: 0;
+  overflow: hidden;
+  	color: white;
+	border: 2px solid black;
+	border-radius: 50px; 
+	background: #35122E;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: #35122E;
+}
+
+.top{
+	color: #35122E;
+	background: white;
+	font-size: 20px;
+	padding:2px;
+	margin-left: 50px;
+	text-decoration: none;
+	list-style-type: none;
+	border: 2px solid black;
+	border-radius: 50px;
+	
+}
+
+.top a:hover {
+  background-color: white;
+  color: #35122E;
+}
+
+
